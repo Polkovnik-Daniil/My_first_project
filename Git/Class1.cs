@@ -17,6 +17,9 @@ namespace Git
             //Console.WriteLine(24.5);
             //Console.WriteLine("Add new information 1");
             Console.ReadKey();
+            Console.ReadKey();
+
+
         }
     }
 }
